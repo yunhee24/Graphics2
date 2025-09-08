@@ -48,6 +48,7 @@ int main()
 	std::cout << "せ";
 	std::cout << "せ";
 	std::cout << "せ";
+	std::cout << "せ";
 
 	return 0;
 }
