@@ -38,7 +38,7 @@ int main()
 
 	std::cout << "5. " << glm::to_string(v4_h) << std::endl;
 
-	//Q6
+	// Q6
 	glm::vec3 v5(1.0f, -1.0f, 4.0f);
 	glm::vec4 v6(v5, 0);
 
